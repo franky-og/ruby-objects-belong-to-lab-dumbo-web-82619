@@ -8,6 +8,6 @@ def name=(new_name)
   @name = new_name
 end
 
-attr_reader :name, :post
+attr_reader :name, 
 
 end
