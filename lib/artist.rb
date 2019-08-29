@@ -6,5 +6,7 @@ end
 
 def name=(new_name)
   @name = new_name
+  
+  attr_reader
 end
 end
